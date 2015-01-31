@@ -1,0 +1,16 @@
+h1 {
+	padding-left:10px;
+	font-size: 2.0em;
+}
+
+
+h2 {
+	border-left: 8px solid #E96;
+	padding-left:5px;
+	font-size: 1.5em;
+}
+
+
+#mainbutton {
+	padding: 10px 15px;
+}

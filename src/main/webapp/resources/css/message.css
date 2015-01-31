@@ -1,0 +1,31 @@
+.alert {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 4px;
+  text-shadow: 0 1px 0 #ffffff;
+}
+.alert-info {
+  background: #ebf7fd;
+  color: #2d7091;
+  border-color: rgba(45, 112, 145, 0.3);
+}
+.alert-warn {
+  background: #fffceb;
+  color: #e28327;
+  border-color: rgba(226, 131, 39, 0.3);
+}
+.alert-error {
+  background: #fff1f0;
+  color: #d85030;
+  border-color: rgba(216, 80, 48, 0.3);
+}
+
+.error-message-list {
+    color: #b94a48;
+    padding:5px 10px;
+    background-color: #fde9f3;
+    border:1px solid #c98186;
+    border-radius:5px;
+    margin-bottom: 10px;
+}
